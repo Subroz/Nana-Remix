@@ -15,6 +15,8 @@ See our documentation to get [Installation Guide](https://nana.pokurt.me).
 Have questions about Nana or facing issues? Join [Nana Support](https://t.me/NanaBotSupport) and our friendly
 community will answer you some questions.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokurt/Nana-Remix)
+
 ### Credits
 
 - [Ayra Hikari](https://github.com/AyraHikari) - For the Base of this Awesome Userbot
